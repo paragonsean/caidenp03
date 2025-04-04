@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1678733751 source:c:\cs361\cs361_project\proj2\project2\src\demands.cpp
+	"Demands.h"
+
+1678907516 c:\cs361\cs361_project\proj2\project2\include\demands.h
+
+1678733799 source:c:\cs361\cs361_project\proj2\project2\src\design.cpp
+	"Design.h"
+
+1678907516 c:\cs361\cs361_project\proj2\project2\include\design.h
+
+1678733787 source:c:\cs361\cs361_project\proj2\project2\src\factoryman.cpp
+	"FactoryMan.h"
+
+1679513014 c:\cs361\cs361_project\proj2\project2\include\factoryman.h
+
+1678733727 source:c:\cs361\cs361_project\proj2\project2\src\population.cpp
+	"Population.h"
+
+1678988482 c:\cs361\cs361_project\proj2\project2\include\population.h
+
+1678733770 source:c:\cs361\cs361_project\proj2\project2\src\randd.cpp
+	"RandD.h"
+
+1679513100 c:\cs361\cs361_project\proj2\project2\include\randd.h
+
+1679676948 source:c:\cs361\cs361_project\proj2\project2\main.cpp
+	"include/Population.h"
+	"include/Demands.h"
+	"include/RandD.h"
+	"include/FactoryMan.h"
+	"include/Design.h"
+	<iostream>
+	<fstream>
+	<cmath>
+	<random>
+

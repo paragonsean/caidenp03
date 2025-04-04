@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1678316655 source:c:\cs361\cs361_project\proj1\project1\src\people.cpp
+	"people.h"
+
+1678758155 c:\cs361\cs361_project\proj1\project1\include\people.h
+	"forwardDeclarations.h"
+	"groups.h"
+	<iostream>
+	<random>
+	<ctime>
+	<cmath>
+	<list>
+	<fstream>
+	<string>
+
+1676930095 c:\cs361\cs361_project\proj1\project1\include\forwarddeclarations.h
+
+1678493882 c:\cs361\cs361_project\proj1\project1\include\groups.h
+	"forwardDeclarations.h"
+	"people.h"
+	<random>
+	<ctime>
+	<cmath>
+	<list>
+	<fstream>
+	<iostream>
+	<string>
+
+1678757433 source:c:\cs361\cs361_project\proj1\project1\src\groups.cpp
+	"groups.h"
+	"people.h"
+	"groups.h"
+
+1678757356 source:c:\cs361\cs361_project\proj1\project1\main.cpp
+	"people.h"
+	"groups.h"
+	<random>
+	<ctime>
+	<cmath>
+	<list>
+	<fstream>
+	<string>
+	<iostream>
+	<cstdlib>
+

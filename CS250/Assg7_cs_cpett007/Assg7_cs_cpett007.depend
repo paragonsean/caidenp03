@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1648305862 source:c:\cs 250\assg7_cs_cpett007\main.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string>
+	"info.h"
+	"info2.h"
+
+1648305862 c:\cs 250\assg7_cs_cpett007\info.h
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string>
+
+1648311347 source:c:\cs 250\assg7_cs_cpett007\info.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string>
+	"info.h"
+	"info2.h"
+
+1648310951 source:c:\cs 250\assg7_cs_cpett007\info2.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string>
+	"info.h"
+	"info2.h"
+
+1648305861 c:\cs 250\assg7_cs_cpett007\info2.h
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string>
+

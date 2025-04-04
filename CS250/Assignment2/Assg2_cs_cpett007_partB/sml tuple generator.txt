@@ -1,0 +1,41 @@
+fun tup x = (x, 1);
+val rand = Random.rand();
+val nextInt = Random.randRange(1, 26);
+
+fun buildList x = if x = 0 then []
+else tup(nextInt(rand))::buildList(x-1);
+
+val x = buildList 50;
+
+val place = buildList 100;
+val outputlist = [] : (int*int)list;
+
+fun first (a, b) = a;
+fun second (a, b) = b;
+
+val numTuples = 5;
+val myList = buildList numTuples;
+
+fun printTuples [] = nil | printTuples (l : (int*int)list) = ( print("(" ^ Int.toString(first(hd(l))) ^ ", " ^ Int.toString(second(hd(l))) ^ ")\n");
+printTuples(tl(l)));
+fun matchCheck (x, y) (f, s) = if (x = f) then (f, s+1) else (f, s);
+
+fun checkNext ((x, y) : (int*int), l) = List.exists (fn (a, b) => x = a) l;
+fun addList (l, a : (int*int)) = if checkNext (a, l) then map (fn x => matchCheck a x) l else op::(a, l);
+
+val outputlist = addList (outputlist, hd(place));
+
+fun counting ([], []) = []
+  | counting (x::xs, []) = x::xs
+  | counting ([], y::ys) = counting([y],ys)
+  | counting (x::xs, y::ys) = counting ((addList ((x::xs), y)), ys);
+
+fun makeTuples ((a,b):(int*int), (x, y):(int*int)) = a > x;
+
+val outputlist = counting (outputlist, place);
+val outputlist = addList (outputlist, (1,1));
+val outputlist = addList (outputlist, (1,1));
+val outputlist = printTuples(outputlist);
+
+val _ = List.app (fn (a, b) => print ("(" ^ Int.toString a ^ ", " ^ Int.toString b ^ ") ")) myList;
+print ("\n"); 

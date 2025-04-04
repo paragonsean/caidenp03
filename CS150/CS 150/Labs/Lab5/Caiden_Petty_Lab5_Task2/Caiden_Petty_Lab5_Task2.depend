@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1632933408 source:z:\cs 150\labs\caiden_petty_lab5_task2\main.cpp
+	<iostream>
+	<iomanip>
+

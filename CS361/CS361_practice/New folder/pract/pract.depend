@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1682894038 source:c:\cs361\cs361_practice\new folder\pract\main.cpp
+	<random>
+	<ctime>
+	<list>
+	<iostream>
+	<cstdlib>
+

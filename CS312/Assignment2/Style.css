@@ -1,0 +1,113 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover:not(#active) {
+    background-color: #111;
+  }
+  
+  #active {
+    background-color: #D3D3D3;
+  }
+  
+  html, body {
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    left: 0px;
+    top: 0px;
+    background: linear-gradient(#FFFFFF, #0000FF);
+    height: 165vh;
+  }
+  
+  h1 {
+  font: 2em Georgia, Helvitca, sans-serif;
+  }
+  h2 {
+  font: 1.5em Georgia, Helvetica, sans-serif;
+  }
+  h3 {
+  font: 1.25em Gergia, Helvetica, sans-serif;
+  }
+  
+  a:link {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #6F8FAF;
+  text-decoration: underline;
+  }
+  a:visited {
+  color: #6F8FAF;
+  }
+  a:hover {
+  background: #0000FF;
+  }
+  
+  #example {
+    margin: 0 auto;
+    background-color: azure;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 10px;
+    max-width: 300px;
+    text-align: center;
+  }
+  
+  #sample {
+    margin: 0 auto;
+    background-color: azure;
+    object-fit: contain;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 10px;
+    max-width: 150px;
+    text-align: center;
+  }
+  
+  .dog-pictures {
+    margin: 0 auto;
+    border: 4px solid #ddd;
+    padding: 4px;
+  }
+  
+  .skiing {
+    margin: 0 auto;
+    border: 4px solid #ddd;
+    border-radius: 4px;
+    padding: 4px;
+  }
+  
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  
+  .footer {
+  font-size: 1em;
+  clear: both;
+  width: 100%;
+  text-align: center;
+  }
+  
+  img:hover {
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+  }

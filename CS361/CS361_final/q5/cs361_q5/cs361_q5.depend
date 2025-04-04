@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1682884629 source:c:\cs361\cs361_final\q5\cs361_q5\main.cpp
+	<random>
+	<ctime>
+	<algorithm>
+	<list>
+	<set>
+	<iostream>
+	<cstdlib>
+	<deque>
+
