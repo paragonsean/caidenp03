@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1635182408 source:z:\cs 150\labs\caiden_petty_exercise7\main.cpp
+	<iostream>
+	<fstream>
+
