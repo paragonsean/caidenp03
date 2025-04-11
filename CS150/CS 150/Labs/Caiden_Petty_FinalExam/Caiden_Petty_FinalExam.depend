@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1638990653 source:z:\cs 150\labs\caiden_petty_finalexam\main.cpp
-	<string>
-	<fstream>
-	<iostream>
-	<iomanip>
-
