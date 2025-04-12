@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>About me</title>
+    <link rel="stylesheet" href="./style.css">
+    <link rel="icon" href="./favicon.ico" type="image/x-icon">
+  </head>
+  <body style="background-color:white;">
+    <main>
+        <h1>About me:</h1>  
+    </main>
+    <script src="index.js"></script>
+  <h1 style="text-align:center;">Some facts about me:</h1>
+  <p style="text-align:center;">A college student</p>
+  </body>
+</html>
