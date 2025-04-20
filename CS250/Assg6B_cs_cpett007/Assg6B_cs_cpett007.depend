@@ -1,9 +1,0 @@
-# depslib dependency file v1.0
-1647742601 source:c:\cs 250\assg6b_cs_cpett007\main.cpp
-	<iostream>
-	<string>
-	<iomanip>
-	<ctime>
-	<fstream>
-	<random>
-

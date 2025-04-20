@@ -1,6 +1,0 @@
->>A = imread('onion.png');
->> imshow(A);
->> outImage1 = A + 100;
->> outImage2 = A - 100;
->> imshow(outImage1);
->> imshow(outImage2);
