@@ -1,9 +1,0 @@
-# depslib dependency file v1.0
-1646338282 source:c:\cs 250\assg5_cs_cpett007\main.cpp
-	<iostream>
-	<cmath>
-	<stdio.h>
-	<stdlib.h>
-	<ctype.h>
-	<bits/stdc++.h>
-

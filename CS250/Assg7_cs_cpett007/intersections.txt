@@ -1,3 +1,0 @@
-2
-Berlin_Bridge 	Berlin_Bridge 	Chesapeake_blvd 	Chesapeake_blvd 	0 	4 
-Darkstar_dr   	Oakheart_rd 	Arianne_pkwy 		Arianne_pkwy		2 	2
