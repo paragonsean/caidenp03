@@ -1,5 +1,0 @@
-The currently popular language that I want to choose for this is Python. According to Interviewbit, python supportsmany programming paradigms, some of which being object oriented programming, structured programming, and functional programming. It also includes a number or libraries that aid for any task. Python excells in machine learning and data science. Below is a URL for the website I found my information.
-
-Python was conceived in 89 as a successor to the ABC programming language, some other languages that influenced python are ALGOL, APL, C, C++, CLU, Dylan, Haskell, Icon, Lisp, Modula-3, Perl, and Standard ML. According to python.org Python can be compared to many other languages like Java, for instance, and how the two can be switched between. Java and python are also object based. The same applies to C++.
-
-https://www.interviewbit.com/blog/features-of-python/#:~:text=Python%20supports%20a%20variety%20of,Science%2C%20Machine%20Learning%2C%20etc.

@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1728667100 source:c:\cs417\assg1\assignment1\main.cpp
-	<iostream>
-	<vector>
-	<cmath>
-	<fstream>
-

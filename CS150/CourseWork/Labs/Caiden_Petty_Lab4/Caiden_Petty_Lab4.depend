@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1632326690 source:z:\cs 150\labs\caiden_petty_lab4\main.cpp
-	<iostream>
-	<math.h>
-	<iomanip>
-
