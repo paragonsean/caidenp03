@@ -12,10 +12,10 @@
 
 # --------------------------------------------
 # Configuration (Change if needed)
-AUTHOR_NAME="caidenp03"
-AUTHOR_EMAIL="caidenp03@odu.edu"
-COMMITTER_NAME="caidenp03"
-COMMITTER_EMAIL="caidenp03@gmail.com"
+AUTHOR_NAME="paragonsean"
+AUTHOR_EMAIL="cos30degrees@gmail.com"
+COMMITTER_NAME="paragonsean"
+COMMITTER_EMAIL="cos30degrees@gmail.com"
 
 # --------------------------------------------
 # Arguments
